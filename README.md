@@ -20,7 +20,7 @@ Neste repositório, você encontrará soluções para os exercícios propostos n
 
 1. Clone este repositório:
    ```
-   git clone [https://github.com/seu-usuario/desafio-alura-java.git](https://github.com/CGVARGAS/dasafio13_java/tree/main)
+   git clone (https://github.com/CGVARGAS/dasafio13_java/tree/main)
    ```
 
 2. Abra o projeto em sua IDE Java de preferência.
